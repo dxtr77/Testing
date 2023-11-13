@@ -1,3 +1,2 @@
-print("Hello World")
-print("Fuck you")
-print("Hi")
+if (1 == 1):
+        print("hello world")
